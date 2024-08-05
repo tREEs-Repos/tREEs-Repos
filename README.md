@@ -84,7 +84,7 @@ Ask me to connect on Social Media! I use the following platforms recreationally.
 
 ___
 <!--- Category: Support and Funding --->
-![Category4](https://img.shields.io/badge/SOCIAL%20AND%20INTERNET-ACCOUNTS%20USED%3A-8A2BE2)
+![Category4](https://img.shields.io/badge/DONATIONS%20-SUPPORT%20ME%3A-8A2BE2)
 
 If you enjoy any of the code in my repositories and are feeling generous, please consider supporting me:
 
@@ -92,6 +92,6 @@ If you enjoy any of the code in my repositories and are feeling generous, please
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)I
 
-All contributions are greatly appreciated and will be directly used to help maintain, improve and ship more code!
+All contributions are greatly appreciated.
 
 ___
