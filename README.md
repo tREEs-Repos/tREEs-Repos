@@ -10,7 +10,7 @@ Acknowledgements for this Documents Styling:
 --->
 
 <!--- Document Title: "Hello There", I'm tREEs and welcome to my Github! -->
-## ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 🌳 "Hello There", I'm tREEs and welcome to my Github! 🌳 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🌳 "Hello There", I'm tREEs and welcome to my Github! 🌳 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Welcome Image](https://github.com/user-attachments/assets/d2b3a23a-41ec-466c-b655-5d7acb94cd20)
 
