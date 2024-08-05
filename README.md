@@ -19,9 +19,10 @@ Acknowledgements for this Documents Styling:
 Hello! My name is tREEs, and I'm a computer science student and hobbyist developer with a passion for all things IT.
 
 This Github account was created to host some of my code for personal use and to gain experience building projects for a potential 
-portfolio. Valuing clean, readable, and maintainable codebases, I strive to provide the best quality in every repository. I am 
-constantly refactoring existing code and eager to learn and improve, Feedback or reports of bugs/issues is always appreciated. Feel free to reach 
-out via Github with any comments or concerns.
+portfolio. Valuing clean, readable, and maintainable codebases, I strive to provide the best quality in every repository. 
+
+I am  constantly refactoring existing code and eager to learn and improve. Feedback or reports of bugs/issues is always appreciated. 
+Feel free to reach out via Github with any comments or concerns.
 
 Strongly believing in the power of collaborative coding, I advocate for Open Source code to ensure it can be scrutinized by the public, 
 closing any vulnerabilities or security holes. 
