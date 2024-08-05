@@ -23,10 +23,12 @@ portfolio. Valuing clean, readable, and maintainable codebases, I strive to prov
 constantly refactoring existing code and eager to learn and improve, Feedback or reports of bugs/issues is always appreciated. Feel free to reach 
 out via Github with any comments or concerns.
 
-Strongly believing in the power of collaborative coding, I advocate for Open Source code to ensure it can be scrutinized by the public, closing any vulnerabilities or security holes. It is a privilege to share my work on this platform.
+Strongly believing in the power of collaborative coding, I advocate for Open Source code to ensure it can be scrutinized by the public, 
+closing any vulnerabilities or security holes. 
+
+It is a privilege to share my work on this platform.
 
 🙏🏻 Thank you for your interest in my Github account! 🙏🏻
-
 
 
 #### ❤️‍🔥 My Favorites: ❤️‍🔥
