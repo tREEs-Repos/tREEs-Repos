@@ -16,19 +16,17 @@ Acknowledgements for this Documents Styling:
 
 <!--- Section: About Myself and My Values as a developer--->
 #### 🛈 About Me: 🛈
-My name is tREEs and I'm a student of computer science and hobbyist developer who is passionate about all things IT.
+Hello! My name is tREEs, and I'm a computer science student and hobbyist developer with a passion for all things IT.
 
-I created this Github account in order to host some code online for personal use, and to get some experience building 
-Projects that would contribute towards a portfolio if I ever seek employment as a developer. I value what I consider to
-be clean, readable and maintainable codebases and strive to provide this to the best of my ability in every repository.
-I am constantly refactoring existing code and always looking to learn and improve, so if you have any feedback or you
-encounter bugs / issues with any of these tools, feel free to reach out via Github and let me know!
+This Github account was created to host some of my code for personal use and to gain experience building projects for a potential 
+portfolio. Valuing clean, readable, and maintainable codebases, I strive to provide the best quality in every repository. I am 
+constantly refactoring existing code and eager to learn and improve, Feedback or reports of bugs/issues is always appreciated. Feel free to reach 
+out via Github with any comments or concerns.
 
-I strongly believe in the power of collaborative coding even though I work alone in most of my projects. I believe all
-code should be Open Source in order for it to be scrutinized by the public and close any vulnerabilities or security holes,
-and I view it as a priviledge to be doing this for you on this platform.
+Strongly believing in the power of collaborative coding, I advocate for Open Source code to ensure it can be scrutinized by the public, closing any vulnerabilities or security holes. It is a privilege to share my work on this platform.
 
-🙏🏻 Thankyou for your Interest in My Github Account! 🙏🏻
+🙏🏻 Thank you for your interest in my Github account! 🙏🏻
+
 
 
 #### ❤️‍🔥 My Favorites: ❤️‍🔥
